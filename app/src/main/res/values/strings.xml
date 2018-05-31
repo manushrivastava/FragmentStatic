@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentStatic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_Title_fragment">Hello Title fragment</string>
+    <string name="hello_Quote_fragment">Hello Quote fragment</string>
+</resources>
